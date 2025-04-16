@@ -1,0 +1,39 @@
+order_id,mode_of_payment
+7,Debit card
+10,Cash
+12,Cash
+16,Credit card
+19,Debit card
+26,Paypal
+28,Debit card
+29,Debit card
+30,Credit card
+32,Paypal
+40,Applepay
+42,Debit card
+43,Cash
+46,Cash
+47,Credit card
+51,Debit card
+53,Cash
+57,Cash
+59,Credit card
+60,Debit card
+62,Paypal
+64,Debit card
+65,Debit card
+66,Credit card
+72,Paypal
+75,Applepay
+79,Paypal
+80,Paypal
+82,Applepay
+83,Paypal
+85,Debit card
+88,Debit card
+90,Credit card
+91,Paypal
+93,Applepay
+94,Paypal
+97,Paypal
+99,Applepay

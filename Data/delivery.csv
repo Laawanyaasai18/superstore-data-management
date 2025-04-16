@@ -1,0 +1,31 @@
+order_ID,delivery_ID,order_status,mode_of_payment,agency_ID
+2,1,Delivered,Applepay,204
+11,2,Transit,Debit card,201
+13,3,Processing,Applepay,208
+15,4,Out for Delivery,Paypal,212
+20,5,Transit,Paypal,212
+21,6,Out for Delivery,Credit card,201
+22,7,Out for Delivery,Paypal,204
+34,8,Delivered,Credit card,212
+35,9,Delivered,Credit card,208
+37,10,Processing,Applepay,204
+39,11,Out for Delivery,Debit card,212
+44,12,Delivered,Credit card,212
+45,13,Transit,Debit card,208
+52,14,Processing,Applepay,204
+55,15,Processing,Applepay,208
+61,16,Out for Delivery,Applepay,201
+63,17,Processing,Credit card,208
+67,18,Processing,Credit card,204
+69,19,Processing,Credit card,112
+70,20,Processing,Debit card,104
+71,21,Processing,Paypal,101
+76,22,Processing,Debit card,101
+77,23,Processing,Debit card,103
+78,24,Out for Delivery,Applepay,104
+81,25,Out for Delivery,Debit card,101
+86,26,Processing,Applepay,101
+89,27,Delivered,Paypal,112
+92,28,Processing,Applepay,103
+98,29,Processing,Debit card,104
+100,30,Transit,Credit card,104

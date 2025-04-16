@@ -1,0 +1,9 @@
+refund_ID,refund_status,refund_amount,refund_order_ID,refund_return_ID
+101,Refunded,430,4,1
+102,Refunded,204,13,2
+103,Not Initiated,289,34,3
+104,Not Initiated,376,53,4
+105,Not Initiated,301,56,5
+106,In Progress,852,73,6
+107,Refunded,800,79,7
+108,Not Initiated,808,87,8

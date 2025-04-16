@@ -1,0 +1,33 @@
+order_ID,pickup_ID,order_status,mode_of_payment
+1,1,Complete,Debit card
+3,2,Complete,Cash
+4,3,Complete,Cash
+5,4,Complete,Credit card
+6,5,Incomplete,Debit card
+8,6,Complete,Paypal
+9,7,Complete,Debit card
+14,8,Complete,Debit card
+17,9,Incomplete,Credit card
+18,10,Incomplete,Paypal
+23,11,Complete,Applepay
+24,12,Incomplete,Applepay
+25,13,Complete,Applepay
+27,14,Complete,Credit card
+31,15,Incomplete,Applepay
+33,16,Complete,Credit card
+36,17,Incomplete,Paypal
+38,18,Incomplete,Applepay
+41,19,Incomplete,Applepay
+48,20,Incomplete,Credit card
+49,21,Incomplete,Paypal
+50,22,Incomplete,Cash
+54,23,Incomplete,Paypal
+56,24,Complete,Debit card
+58,25,Complete,Cash
+68,26,Incomplete,Paypal
+73,27,Complete,Applepay
+74,28,Incomplete,Debit card
+84,29,Incomplete,Paypal
+87,30,Incomplete,Debit card
+95,31,Complete,Debit card
+96,32,Incomplete,Credit card
